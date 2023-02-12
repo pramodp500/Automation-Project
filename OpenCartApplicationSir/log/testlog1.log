@@ -1,0 +1,84 @@
+2023-02-05 09:26:38,164 [main] INFO Opencart Framework - Framework execution Started
+2023-02-05 09:26:45,981 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 09:26:46,124 [main] INFO Opencart Framework - Framework execution finished
+2023-02-05 09:26:46,125 [main] INFO Opencart Framework - --------------------------------------------
+2023-02-05 09:28:03,304 [main] INFO Opencart Framework - Framework execution Started
+2023-02-05 09:28:12,777 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 09:28:12,789 [main] INFO Opencart Framework - Testcase execution started - verifyLoginTest
+2023-02-05 09:28:15,398 [main] INFO Opencart Framework - Testcase execution completed - verifyLoginTest
+2023-02-05 09:28:15,404 [main] INFO Opencart Framework - browser closed
+2023-02-05 09:28:21,167 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 09:28:21,170 [main] INFO Opencart Framework - Testcase execution started - verifyRegisterFunctionality
+2023-02-05 09:28:26,346 [main] INFO Opencart Framework - Testcase execution failed -verifyRegisterFunctionality
+2023-02-05 09:28:26,765 [main] INFO Opencart Framework - Take Screenshot
+2023-02-05 09:28:26,768 [main] INFO Opencart Framework - browser closed
+2023-02-05 09:28:34,075 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 09:28:34,082 [main] INFO Opencart Framework - Testcase execution started - verifyBuyProduct
+2023-02-05 09:28:46,662 [main] INFO Opencart Framework - Product added to cart
+2023-02-05 09:28:50,596 [main] INFO Opencart Framework - Product is on checkout
+2023-02-05 09:28:53,228 [main] INFO Opencart Framework - Logged in
+2023-02-05 09:29:00,085 [main] INFO Opencart Framework - Order Confirmed
+2023-02-05 09:29:02,337 [main] INFO Opencart Framework - Testcase execution completed - verifyBuyProduct
+2023-02-05 09:29:02,342 [main] INFO Opencart Framework - browser closed
+2023-02-05 09:29:02,346 [main] INFO Opencart Framework - Framework execution finished
+2023-02-05 09:29:02,347 [main] INFO Opencart Framework - --------------------------------------------
+2023-02-05 09:31:27,608 [main] INFO Opencart Framework - Framework execution Started
+2023-02-05 09:31:37,519 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 09:31:37,554 [main] INFO Opencart Framework - Testcase execution started - verifyLoginTest
+2023-02-05 09:31:40,392 [main] INFO Opencart Framework - Testcase execution completed - verifyLoginTest
+2023-02-05 09:31:40,396 [main] INFO Opencart Framework - browser closed
+2023-02-05 09:31:48,246 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 09:31:48,249 [main] INFO Opencart Framework - Testcase execution started - verifyRegisterFunctionality
+2023-02-05 09:31:52,003 [main] INFO Opencart Framework - Testcase execution failed -verifyRegisterFunctionality
+2023-02-05 09:31:52,451 [main] INFO Opencart Framework - Take Screenshot
+2023-02-05 09:31:52,453 [main] INFO Opencart Framework - browser closed
+2023-02-05 09:32:06,864 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 09:32:06,867 [main] INFO Opencart Framework - Testcase execution started - verifyBuyProduct
+2023-02-05 09:32:31,757 [main] INFO Opencart Framework - Product added to cart
+2023-02-05 09:32:37,065 [main] INFO Opencart Framework - Product is on checkout
+2023-02-05 09:32:39,420 [main] INFO Opencart Framework - Logged in
+2023-02-05 09:32:44,709 [main] INFO Opencart Framework - Order Confirmed
+2023-02-05 09:32:46,722 [main] INFO Opencart Framework - Testcase execution completed - verifyBuyProduct
+2023-02-05 09:32:46,723 [main] INFO Opencart Framework - browser closed
+2023-02-05 09:32:46,723 [main] INFO Opencart Framework - Framework execution finished
+2023-02-05 09:32:46,724 [main] INFO Opencart Framework - --------------------------------------------
+2023-02-05 20:48:18,145 [main] INFO Opencart Framework - Framework execution Started
+2023-02-05 20:49:54,273 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 20:49:54,303 [main] INFO Opencart Framework - Testcase execution started - verifyLoginTest
+2023-02-05 20:49:59,063 [main] INFO Opencart Framework - Testcase execution completed - verifyLoginTest
+2023-02-05 20:49:59,067 [main] INFO Opencart Framework - browser closed
+2023-02-05 20:50:09,726 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 20:50:09,735 [main] INFO Opencart Framework - Testcase execution started - verifyRegisterFunctionality
+2023-02-05 20:50:15,004 [main] INFO Opencart Framework - Testcase execution failed -verifyRegisterFunctionality
+2023-02-05 20:50:15,259 [main] INFO Opencart Framework - Take Screenshot
+2023-02-05 20:50:15,262 [main] INFO Opencart Framework - browser closed
+2023-02-05 20:50:34,318 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 20:50:34,325 [main] INFO Opencart Framework - Testcase execution started - verifyBuyProduct
+2023-02-05 20:51:05,200 [main] INFO Opencart Framework - Product added to cart
+2023-02-05 20:51:10,475 [main] INFO Opencart Framework - Product is on checkout
+2023-02-05 20:51:13,926 [main] INFO Opencart Framework - Logged in
+2023-02-05 20:51:23,151 [main] INFO Opencart Framework - Order Confirmed
+2023-02-05 20:51:25,239 [main] INFO Opencart Framework - Testcase execution completed - verifyBuyProduct
+2023-02-05 20:51:25,255 [main] INFO Opencart Framework - browser closed
+2023-02-05 20:51:25,255 [main] INFO Opencart Framework - Framework execution finished
+2023-02-05 20:51:25,255 [main] INFO Opencart Framework - --------------------------------------------
+2023-02-05 20:54:36,104 [main] INFO Opencart Framework - Framework execution Started
+2023-02-05 20:54:51,372 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 20:54:51,387 [main] INFO Opencart Framework - Testcase execution started - verifyLoginTest
+2023-02-05 20:54:56,429 [main] INFO Opencart Framework - Testcase execution completed - verifyLoginTest
+2023-02-05 20:54:56,432 [main] INFO Opencart Framework - browser closed
+2023-02-05 20:55:07,699 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 20:55:07,707 [main] INFO Opencart Framework - Testcase execution started - verifyRegisterFunctionality
+2023-02-05 20:55:15,249 [main] INFO Opencart Framework - Testcase execution failed -verifyRegisterFunctionality
+2023-02-05 20:55:15,541 [main] INFO Opencart Framework - Take Screenshot
+2023-02-05 20:55:15,541 [main] INFO Opencart Framework - browser closed
+2023-02-05 20:55:31,242 [main] INFO Opencart Framework - browser launches , url, waits, maximize
+2023-02-05 20:55:31,242 [main] INFO Opencart Framework - Testcase execution started - verifyBuyProduct
+2023-02-05 20:56:51,435 [main] INFO Opencart Framework - Product added to cart
+2023-02-05 20:57:00,545 [main] INFO Opencart Framework - Product is on checkout
+2023-02-05 20:57:06,970 [main] INFO Opencart Framework - Logged in
+2023-02-05 20:57:18,143 [main] INFO Opencart Framework - Order Confirmed
+2023-02-05 20:57:21,183 [main] INFO Opencart Framework - Testcase execution completed - verifyBuyProduct
+2023-02-05 20:57:21,185 [main] INFO Opencart Framework - browser closed
+2023-02-05 20:57:21,185 [main] INFO Opencart Framework - Framework execution finished
+2023-02-05 20:57:21,185 [main] INFO Opencart Framework - --------------------------------------------
